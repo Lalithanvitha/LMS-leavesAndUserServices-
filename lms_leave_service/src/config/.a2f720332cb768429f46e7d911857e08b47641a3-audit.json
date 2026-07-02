@@ -24,6 +24,11 @@
             "date": 1782886629499,
             "name": "C:\\work\\lms_leave_service\\src\\config\\combined-2026-07-01.log",
             "hash": "02143df075ee996452743ec270369b90e67da2cae9321e2964fa8ea146c0595c"
+        },
+        {
+            "date": 1782998172459,
+            "name": "C:\\work\\lms_leave_service\\src\\config\\combined-2026-07-02.log",
+            "hash": "2b228caec5c23d2f7fbe421c08227f0e3d0c4d5402795cad8953e8b366b01050"
         }
     ],
     "hashType": "sha256"

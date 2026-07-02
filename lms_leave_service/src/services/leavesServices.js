@@ -1,8 +1,6 @@
 const express = require("express");
 const route = express.Router();
 const LeavesModel = require("../models/leavesModel");
-const EmployeesModel = require("../models/employeesModel");
-const RolesModel = require("../models/rolesModel");
 const MonthsModel = require("../models/monthsModel");
 const errHandler = require("../utils/errHandler");
 const { successResponse } = require("../utils/responseHandler");

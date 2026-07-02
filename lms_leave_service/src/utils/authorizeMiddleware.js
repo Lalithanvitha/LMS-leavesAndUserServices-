@@ -18,8 +18,7 @@ const authorizeAdminOrHR = async (req, res, next) => {
 
     if (role.name !== "Admin" && role.name !== "HR") {
       return res.status(403).json({
-        message:
-          "Only Admin or HR can retrive,create,delete and update employees",
+        message: "Only Admin and HR have access!",
       });
     }
 

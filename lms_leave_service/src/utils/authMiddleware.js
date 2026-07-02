@@ -1,6 +1,5 @@
 const jwt = require("jsonwebtoken");
 const createError = require("http-errors");
-const SessionsModel = require("../models/sessionsModel");
 const logger = require("../config/logger");
 const { getMongoDb } = require("../mongoConnection");
 const redisClient = require("../config/redis");
