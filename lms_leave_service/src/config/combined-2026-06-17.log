@@ -1,0 +1,188 @@
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"error","message":"Employee not found"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"error","message":"Employee not found"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"error","message":"Employee not found"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"error","message":"employee is not defined"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'manager_id')"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"error","message":"Employee not found"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"error","message":"Cannot read properties of null (reading 'manager_id')"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"Leave applied successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware sessionId"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Mail sent from leaveMailEvent: [object Object]"}

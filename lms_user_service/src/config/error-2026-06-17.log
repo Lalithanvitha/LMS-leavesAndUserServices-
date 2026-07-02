@@ -1,0 +1,3 @@
+{"level":"error","message":"[updateEmployee]: name,email alread exists"}
+{"level":"error","message":"[updateEmployee]:email already exists"}
+{"level":"error","message":"[updateEmployee]:email already exists"}

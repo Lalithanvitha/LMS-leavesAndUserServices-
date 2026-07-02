@@ -1,0 +1,80 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\Dell Vostro 5100\\Desktop\\project\\src\\config\\.14c9a2b96ed2c433410d6b0e76becef9478e6b82-audit.json",
+    "files": [
+        {
+            "date": 1779865825806,
+            "name": "C:\\Users\\Dell Vostro 5100\\Desktop\\project\\src\\config\\combined-2026-05-27.log",
+            "hash": "4e7e65ae1ff7f03560681f8c9a511a8effbecce6bde087290330bbcf0b642f6d"
+        },
+        {
+            "date": 1780032806477,
+            "name": "C:\\Users\\Dell Vostro 5100\\Desktop\\project\\src\\config\\combined-2026-05-29.log",
+            "hash": "3a3c3b12cb692504d446233f6c0af740af90fbeb1e8d4b0f245fb6125ad60f5f"
+        },
+        {
+            "date": 1780221836764,
+            "name": "C:\\Users\\Dell Vostro 5100\\Desktop\\project\\src\\config\\combined-2026-05-31.log",
+            "hash": "a0477f1ef36fd628cb71b08fa689e1a5e1a2c5622346cfc4fafba39c9d5ae6a3"
+        },
+        {
+            "date": 1780293417349,
+            "name": "C:\\Users\\Dell Vostro 5100\\Desktop\\project\\src\\config\\combined-2026-06-01.log",
+            "hash": "4656d390b4ddc3b63717597994ad3d6a5dad1b89ba139630c940002c92792c1c"
+        },
+        {
+            "date": 1780385062860,
+            "name": "C:\\Users\\Dell Vostro 5100\\Desktop\\project\\src\\config\\combined-2026-06-02.log",
+            "hash": "a707d693cb695b33ff5fa4571f2dd6fd99ae9896cc110a711ea62132d4add132"
+        },
+        {
+            "date": 1780466260597,
+            "name": "C:\\Users\\Dell Vostro 5100\\Desktop\\project\\src\\config\\combined-2026-06-03.log",
+            "hash": "3ec26dfe5df7fdd93b5a6cca3f911a25771c06d12d6a6a2fc300a82d8c80f039"
+        },
+        {
+            "date": 1780553152223,
+            "name": "C:\\Users\\Dell Vostro 5100\\Desktop\\project\\src\\config\\combined-2026-06-04.log",
+            "hash": "f1aa61249abbc6a19395fa80aeb554c27009e81e58f7726c94aca7dffd849cc4"
+        },
+        {
+            "date": 1780639645850,
+            "name": "C:\\Users\\Dell Vostro 5100\\Desktop\\project\\src\\config\\combined-2026-06-05.log",
+            "hash": "bb54906306cade1ab2c1cefd71ca261b848c0de5c8b8ecec52a4db5239d844f4"
+        },
+        {
+            "date": 1780899706416,
+            "name": "C:\\Users\\Dell Vostro 5100\\Desktop\\project\\src\\config\\combined-2026-06-08.log",
+            "hash": "876de9c9661d2f7bdbad1d2e6405b3cc87f41c1ec8328ba50f9c6a1a80bfa34d"
+        },
+        {
+            "date": 1781005237468,
+            "name": "C:\\Users\\Dell Vostro 5100\\Desktop\\project\\src\\config\\combined-2026-06-09.log",
+            "hash": "7f8d604ea9834c40ef4b0047dd4a67ab8ec152da66749de131835bd547bcae1a"
+        },
+        {
+            "date": 1781077543531,
+            "name": "C:\\Users\\Dell Vostro 5100\\Desktop\\project\\src\\config\\combined-2026-06-10.log",
+            "hash": "1fca68eeec911b4f2a721a8b9faae722f1362d82689be29d507a11c0b4fe3996"
+        },
+        {
+            "date": 1781244316094,
+            "name": "C:\\Users\\Dell Vostro 5100\\Desktop\\project\\src\\config\\combined-2026-06-12.log",
+            "hash": "14fa438eba1c013c06c148177dcfcb19d4dc3ff138b31843a339d1c27e144a9b"
+        },
+        {
+            "date": 1781509265462,
+            "name": "C:\\Users\\Dell Vostro 5100\\Desktop\\project\\src\\config\\combined-2026-06-15.log",
+            "hash": "447b4cc5f4660ea4aa6c94e7ed2615b72d4af0bdc9e817a1aeb148911094e0d0"
+        },
+        {
+            "date": 1781591394664,
+            "name": "C:\\Users\\Dell Vostro 5100\\Desktop\\project\\src\\config\\combined-2026-06-16.log",
+            "hash": "50e93c6b6d94b9730dedc9d97b800924bcc7fdb74b3d417ca4c99d3db8403f26"
+        }
+    ],
+    "hashType": "sha256"
+}

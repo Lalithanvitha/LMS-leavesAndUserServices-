@@ -1,0 +1,13 @@
+{"level":"error","message":"Cannot read properties of undefined (reading 'emp_id')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'emp_id')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'emp_id')"}
+{"level":"error","message":"emp_id: must be integer, from_date: must match format \"date\", to_date: must match format \"date\", days: must be integer"}
+{"level":"error","message":"emp_id: must be integer, days: must be integer"}
+{"level":"error","message":"emp_id: must be integer, days: must be integer"}
+{"level":"error","message":"emp_id: must be integer, days: must be integer"}
+{"level":"error","message":"emp_id: must be integer, days: must be integer"}
+{"level":"error","message":"emp_id: must be integer, days: must be integer"}
+{"level":"error","message":"document_url is not defined"}
+{"level":"error","message":"document_url is not defined"}
+{"level":"error","message":"Your monthly used leaves are 2, per month you can apply only 2 leaves"}
+{"level":"error","message":"Your monthly used leaves are 2, per month you can apply only 2 leaves"}

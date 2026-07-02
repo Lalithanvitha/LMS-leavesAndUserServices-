@@ -1,0 +1,9 @@
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"Leave applied successfully"}

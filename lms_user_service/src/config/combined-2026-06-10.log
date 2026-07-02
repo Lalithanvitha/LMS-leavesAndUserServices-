@@ -1,0 +1,302 @@
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"error","message":"leaveEmitter is not defined"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"error","message":"employee is not defined"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"insert into \"leaves\" (\"days\", \"emp_id\", \"from_date\", \"leavereason\", \"status\", \"to_date\") values ($1, $2, $3, $4, $5, $6) returning \"id\" - insert or update on table \"leaves\" violates foreign key constraint \"fk_id\""}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"insert into \"leaves\" (\"days\", \"emp_id\", \"from_date\", \"leavereason\", \"status\", \"to_date\") values ($1, $2, $3, $4, $5, $6) returning \"id\" - insert or update on table \"leaves\" violates foreign key constraint \"fk_id\""}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"insert into \"leaves\" (\"days\", \"emp_id\", \"from_date\", \"leavereason\", \"status\", \"to_date\") values ($1, $2, $3, $4, $5, $6) returning \"id\" - insert or update on table \"leaves\" violates foreign key constraint \"fk_id\""}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"error","message":"insert into \"leaves\" (\"days\", \"emp_id\", \"from_date\", \"leavereason\", \"status\", \"to_date\") values ($1, $2, $3, $4, $5, $6) returning \"id\" - insert or update on table \"leaves\" violates foreign key constraint \"fk_id\""}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"error","message":"insert into \"leaves\" (\"days\", \"emp_id\", \"from_date\", \"leavereason\", \"status\", \"to_date\") values ($1, $2, $3, $4, $5, $6) returning \"id\" - insert or update on table \"leaves\" violates foreign key constraint \"fk_id\""}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"error","message":"leave is not defined"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"error","message":"Leave.from_date.toDateString is not a function"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"error","message":"from_date is not defined"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"Your monthly used leaves are 2, per month you can apply only 2 leaves"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"error","message":"Leave.from_date.toDateString is not a function"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"error","message":"manager is not defined"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"error","message":"status is not defined"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"error","message":"id is not defined"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"Your monthly used leaves are 2, per month you can apply only 2 leaves"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"error","message":"id is not defined"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"error","message":"select \"employees\".* from \"employees\" where \"employees\".\"id\" = $1 - invalid input syntax for type integer: \"{\"manager_id\":37}\""}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"error","message":"select \"employees\".* from \"employees\" where \"employees\".\"id\" = $1 - invalid input syntax for type integer: \"{\"manager_id\":{\"manager_id\":37}}\""}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"error","message":"select \"employees\".* from \"employees\" where \"employees\".\"id\" = $1 - invalid input syntax for type integer: \"{\"manager_id\":{\"manager_id\":37}}\""}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"error","message":"select \"employees\".* from \"employees\" where \"employees\".\"id\" = $1 - invalid input syntax for type integer: \"{\"manager_id\":{\"manager_id\":37}}\""}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"error","message":"undefined was passed to findById"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"Your monthly used leaves are 2, per month you can apply only 2 leaves"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"error","message":"emp_id: must be integer, days: must be integer"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Inserting data"}
+{"level":"info","message":"Logging leaves"}
+{"level":"info","message":"logging updateLeave"}
+{"level":"info","message":"Leave applied successfully"}

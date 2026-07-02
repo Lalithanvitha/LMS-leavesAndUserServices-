@@ -1,0 +1,3 @@
+{"level":"error","message":"[getEmployeeById]: Missing Data for id : 45"}
+{"level":"error","message":"[getEmployeeById]: Missing Data for id : 45"}
+{"level":"error","message":"[postEmployee]: Both name and email fields are required"}

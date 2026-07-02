@@ -1,0 +1,24 @@
+{"level":"error","message":"leaveEmitter is not defined"}
+{"level":"error","message":"employee is not defined"}
+{"level":"error","message":"insert into \"leaves\" (\"days\", \"emp_id\", \"from_date\", \"leavereason\", \"status\", \"to_date\") values ($1, $2, $3, $4, $5, $6) returning \"id\" - insert or update on table \"leaves\" violates foreign key constraint \"fk_id\""}
+{"level":"error","message":"insert into \"leaves\" (\"days\", \"emp_id\", \"from_date\", \"leavereason\", \"status\", \"to_date\") values ($1, $2, $3, $4, $5, $6) returning \"id\" - insert or update on table \"leaves\" violates foreign key constraint \"fk_id\""}
+{"level":"error","message":"insert into \"leaves\" (\"days\", \"emp_id\", \"from_date\", \"leavereason\", \"status\", \"to_date\") values ($1, $2, $3, $4, $5, $6) returning \"id\" - insert or update on table \"leaves\" violates foreign key constraint \"fk_id\""}
+{"level":"error","message":"insert into \"leaves\" (\"days\", \"emp_id\", \"from_date\", \"leavereason\", \"status\", \"to_date\") values ($1, $2, $3, $4, $5, $6) returning \"id\" - insert or update on table \"leaves\" violates foreign key constraint \"fk_id\""}
+{"level":"error","message":"insert into \"leaves\" (\"days\", \"emp_id\", \"from_date\", \"leavereason\", \"status\", \"to_date\") values ($1, $2, $3, $4, $5, $6) returning \"id\" - insert or update on table \"leaves\" violates foreign key constraint \"fk_id\""}
+{"level":"error","message":"leave is not defined"}
+{"level":"error","message":"Leave.from_date.toDateString is not a function"}
+{"level":"error","message":"from_date is not defined"}
+{"level":"error","message":"Your monthly used leaves are 2, per month you can apply only 2 leaves"}
+{"level":"error","message":"Leave.from_date.toDateString is not a function"}
+{"level":"error","message":"manager is not defined"}
+{"level":"error","message":"status is not defined"}
+{"level":"error","message":"id is not defined"}
+{"level":"error","message":"Your monthly used leaves are 2, per month you can apply only 2 leaves"}
+{"level":"error","message":"id is not defined"}
+{"level":"error","message":"select \"employees\".* from \"employees\" where \"employees\".\"id\" = $1 - invalid input syntax for type integer: \"{\"manager_id\":37}\""}
+{"level":"error","message":"select \"employees\".* from \"employees\" where \"employees\".\"id\" = $1 - invalid input syntax for type integer: \"{\"manager_id\":{\"manager_id\":37}}\""}
+{"level":"error","message":"select \"employees\".* from \"employees\" where \"employees\".\"id\" = $1 - invalid input syntax for type integer: \"{\"manager_id\":{\"manager_id\":37}}\""}
+{"level":"error","message":"select \"employees\".* from \"employees\" where \"employees\".\"id\" = $1 - invalid input syntax for type integer: \"{\"manager_id\":{\"manager_id\":37}}\""}
+{"level":"error","message":"undefined was passed to findById"}
+{"level":"error","message":"Your monthly used leaves are 2, per month you can apply only 2 leaves"}
+{"level":"error","message":"emp_id: must be integer, days: must be integer"}

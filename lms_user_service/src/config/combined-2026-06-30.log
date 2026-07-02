@@ -1,0 +1,642 @@
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"[birthdayjob] :Hitting birthdayjob middleware"}
+{"level":"info","message":"[birthdayServices]: Hitting birthday services"}
+{"level":"error","message":"Falied to send birthday mail: No birthday emails to send"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[updateEmployee]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}

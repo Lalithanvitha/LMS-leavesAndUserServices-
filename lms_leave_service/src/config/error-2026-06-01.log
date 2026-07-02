@@ -1,0 +1,10 @@
+{"level":"error","message":"from_date is not defined"}
+{"level":"error","message":"select sum(\"days\") as \"total\" from \"leaves\" where \"emp_id\" = $1 and \"status\" in ($2, $3) and \"from_date\" >= $4 and \"from_date\" < $5 - invalid input syntax for type date: \"monthStart\""}
+{"level":"error","message":"select sum(\"days\") as \"total\" from \"leaves\" where \"emp_id\" = $1 and \"status\" in ($2, $3) and \"from_date\" >= $4 and \"from_date\" < $5 - invalid input syntax for type date: \"monthStart\""}
+{"level":"error","message":"Your monthly used leaves are 0, per month you can apply only 2 leaves"}
+{"level":"error","message":"Your monthly used leaves are 2, per month you can apply only 2 leaves"}
+{"level":"error","message":"Your monthly used leaves are 2, per month you can apply only 2 leaves"}
+{"level":"error","message":"Access denied"}
+{"level":"error","message":"Your monthly used leaves are 1, per month you can apply only 2 leaves"}
+{"level":"error","message":"Your monthly used leaves are 1, per month you can apply only 2 leaves"}
+{"level":"error","message":"Access denied"}

@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\work\\lms_leave_service\\src\\config\\.1787996b68ea0a6549e13b00af82c7f088c252bb-audit.json",
+    "files": [
+        {
+            "date": 1782283039162,
+            "name": "C:\\work\\lms_leave_service\\src\\config\\error-2026-06-24.log",
+            "hash": "29a940ac4afe3018e82900758fb929d77ddf265565c2e63b51b7c8e38e1de00a"
+        },
+        {
+            "date": 1782739666485,
+            "name": "C:\\work\\lms_leave_service\\src\\config\\error-2026-06-29.log",
+            "hash": "8133bf11c1ff8eabb0418c84df778191bcefd8a838c02c0951de9bcb24f4e2a8"
+        },
+        {
+            "date": 1782801264153,
+            "name": "C:\\work\\lms_leave_service\\src\\config\\error-2026-06-30.log",
+            "hash": "eb10c2866d6d149db58548978ea55b889fb7716ee409d52f17b8015f7d2a1708"
+        },
+        {
+            "date": 1782886629508,
+            "name": "C:\\work\\lms_leave_service\\src\\config\\error-2026-07-01.log",
+            "hash": "fb7df9fc4ae428d6dcf63b94488cd34180dc8a6cf1a17e171361c87fd8ca0f7b"
+        }
+    ],
+    "hashType": "sha256"
+}

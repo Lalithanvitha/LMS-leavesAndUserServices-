@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\work\\lms_user_service\\src\\config\\.2d9e6ffa93e5ed6b1363c86f55893a9c4c45c218-audit.json",
+    "files": [
+        {
+            "date": 1782283045898,
+            "name": "C:\\work\\lms_user_service\\src\\config\\combined-2026-06-24.log",
+            "hash": "66b467a89b794ee6a378a8371d11d9635c6f22702d8105efe0d3c7253b252cf6"
+        },
+        {
+            "date": 1782396565615,
+            "name": "C:\\work\\lms_user_service\\src\\config\\combined-2026-06-25.log",
+            "hash": "1769bb0f9c7503da7eb9ede2b6351e94da9005b3f26b61723af814bb7f6bea31"
+        },
+        {
+            "date": 1782453639183,
+            "name": "C:\\work\\lms_user_service\\src\\config\\combined-2026-06-26.log",
+            "hash": "e36152dbeaf9eea31cf85c2c84d7a3521e1b35a25915c8fba6d7824a970e6394"
+        },
+        {
+            "date": 1782713135580,
+            "name": "C:\\work\\lms_user_service\\src\\config\\combined-2026-06-29.log",
+            "hash": "0ff84205248c6d2bebcb541d06a85d3506b3368deaabdf36bf8ce7a780318a65"
+        },
+        {
+            "date": 1782801155403,
+            "name": "C:\\work\\lms_user_service\\src\\config\\combined-2026-06-30.log",
+            "hash": "3e8be2ac7c5da5e1187eb38b03f1b16c52595cc45ada7ab1449bb844f528e4b6"
+        },
+        {
+            "date": 1782886565278,
+            "name": "C:\\work\\lms_user_service\\src\\config\\combined-2026-07-01.log",
+            "hash": "e71ef10c2cf29e073462c8850282b4322b75c99e9a5f3bc83702c7e402d449a5"
+        }
+    ],
+    "hashType": "sha256"
+}

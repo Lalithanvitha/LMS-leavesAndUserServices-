@@ -1,0 +1,114 @@
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'emp_id')"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'emp_id')"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'emp_id')"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"emp_id: must be integer, from_date: must match format \"date\", to_date: must match format \"date\", days: must be integer"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"emp_id: must be integer, days: must be integer"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"emp_id: must be integer, days: must be integer"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"emp_id: must be integer, days: must be integer"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"emp_id: must be integer, days: must be integer"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"emp_id: must be integer, days: must be integer"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Leave applied successfully"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"document_url is not defined"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"document_url is not defined"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Leave applied successfully"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"Your monthly used leaves are 2, per month you can apply only 2 leaves"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"Your monthly used leaves are 2, per month you can apply only 2 leaves"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Leave applied successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Leave applied successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Apply Leave router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"Logging employee in console"}
+{"level":"info","message":"Logging data.days"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"Leave applied successfully"}

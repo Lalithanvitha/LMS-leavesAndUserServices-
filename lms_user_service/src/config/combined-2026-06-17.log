@@ -1,0 +1,59 @@
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[updateEmployee]: Employees service hit"}
+{"level":"error","message":"[updateEmployee]: name,email alread exists"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[updateEmployee]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[postEmployee]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[postEmployee]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[postEmployee]: Employees service hit"}
+{"level":"error","message":"[updateEmployee]:email already exists"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[postEmployee]: Employees service hit"}
+{"level":"error","message":"[updateEmployee]:email already exists"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"authmiddleware hit"}

@@ -1,0 +1,115 @@
+{"level":"info","message":"[getEmployeeById]: Employees service hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"[getEmployees]: Employees service hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"error","message":"from_date is not defined"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"error","message":"select sum(\"days\") as \"total\" from \"leaves\" where \"emp_id\" = $1 and \"status\" in ($2, $3) and \"from_date\" >= $4 and \"from_date\" < $5 - invalid input syntax for type date: \"monthStart\""}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"error","message":"select sum(\"days\") as \"total\" from \"leaves\" where \"emp_id\" = $1 and \"status\" in ($2, $3) and \"from_date\" >= $4 and \"from_date\" < $5 - invalid input syntax for type date: \"monthStart\""}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"Your monthly used leaves are 0, per month you can apply only 2 leaves"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"Your monthly used leaves are 2, per month you can apply only 2 leaves"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"Your monthly used leaves are 2, per month you can apply only 2 leaves"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Employees service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"error","message":"Access denied"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"Your monthly used leaves are 1, per month you can apply only 2 leaves"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"error","message":"Your monthly used leaves are 1, per month you can apply only 2 leaves"}
+{"level":"info","message":"Leaves router hit"}
+{"level":"info","message":"Leaves service hit"}
+{"level":"info","message":"monthlyUsed"}
+{"level":"info","message":"API's fetched successfully"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"error","message":"Access denied"}
+{"level":"info","message":"Roles router hit"}
+{"level":"info","message":"Roles service hit"}
+{"level":"info","message":"API's fetched successfully"}
